@@ -1,5 +1,3 @@
-Here’s a README for your AR dinosaur app in the same style:
-
 # 🦖 Welcome to Dinoverse! 🦖
 
 **🌟 Bring Dinosaurs to Life in Augmented Reality! 🌟**  
