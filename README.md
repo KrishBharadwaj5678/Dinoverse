@@ -1,39 +1,81 @@
-# 🦖 Welcome to Dinoverse! 🦖
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KrishBharadwaj5678&label=Profile%20Views&color=brightgreen&style=for-the-badge" />
+  <img src="https://hits.sh/github.com/KrishBharadwaj5678/Dinoverse.svg?style=for-the-badge&label=Repo%20Views&color=blue" />
+  <img src="https://img.shields.io/github/stars/KrishBharadwaj5678/Dinoverse?style=for-the-badge&color=yellow" />
+  <img src="https://img.shields.io/github/last-commit/KrishBharadwaj5678/Dinoverse?style=for-the-badge&color=orange" />
+  <img src="https://img.shields.io/github/repo-size/KrishBharadwaj5678/Dinoverse?style=for-the-badge&color=blue" />
+</p>
 
-**🌟 Bring Dinosaurs to Life in Augmented Reality! 🌟**  
-Step back into the age of the dinosaurs with **stunning 3D models** that spring to life by scanning dinosaur images. Explore and interact with lifelike dinosaur models in your own environment – right from your device!
+<p align="center">
+  <a href="README.md">English</a> | 
+  <a href="README.pt.md">Português</a> | 
+  <a href="README.ja.md">日本語</a> | 
+  <a href="README.ru.md">Русский</a>
+</p>
 
-### 🚀 **Getting Started is Easy!** 🚀
+<h1 align="center">🦖 Dinoverse</h1>
 
-Follow these simple steps to dive into the world of Dinoverse:
+<p align="center">
+  Bring dinosaurs to life with Dinoverse’s immersive real-time 3D scanning experience.
+</p>
 
----
+<p align="center">
+  <img src="https://github.com/KrishBharadwaj5678/Dinoverse/raw/main/readme/demos/Dinoverse.gif" width="100%" />
+</p>
 
-### **Step 1:**  
-🖼️ **Download the dinosaur images** provided in the repository to your device.
+<img src="https://github.com/KrishBharadwaj5678/Dinoverse/raw/main/readme/gifs/divider.gif" width="100%"/>
 
----
+## <img src="https://github.com/KrishBharadwaj5678/Dinoverse/raw/main/readme/gifs/features.gif" width="35"/> Features
 
-### **Step 2:**  
-📲 **Download the app** using the link provided.
+| Feature | Short Description |
+| --- | --- |
+| ✨ **3D Dinosaur Visualization** | Explore detailed 3D dinosaur models |
+| 🥽 **AR Experience** | Bring dinosaurs into your real-world surroundings |
+| 🎯 **Image Tracking** | Scan dinosaur images to trigger 3D models |
+| ⚡ **Real-Time Interaction** | Bring dinosaurs to life instantly |
 
----
+<img src="https://github.com/KrishBharadwaj5678/Dinoverse/raw/main/readme/gifs/divider.gif" width="100%"/>
 
-### **Step 3:**  
-🎮 **Open the app** and get ready for an exciting 3D AR dinosaur adventure!
+## <img src="https://github.com/KrishBharadwaj5678/Dinoverse/raw/main/readme/gifs/techStack.gif" width="35"/> Tech Stack
 
----
+| Technology | Purpose |
+| ---------- | ------- |
+| <img src="https://skillicons.dev/icons?i=unity" width="25"/> **Unity** | Game engine for building the interactive AR experience |
+| <img src="https://skillicons.dev/icons?i=cs" width="25"/> **C#** | Scripting application logic, audio controls, and interactive features |
+| <img src="https://github.com/KrishBharadwaj5678/Dinoverse/raw/main/readme/icons/vuforia.png" width="25"/> **Vuforia** | Detects and tracks image markers to accurately place 3D models |
 
-### **Step 4:**  
-📸 **Scan any of the dinosaur images** you downloaded to bring a detailed 3D model to life.
+<img src="https://github.com/KrishBharadwaj5678/Dinoverse/raw/main/readme/gifs/divider.gif" width="100%"/>
 
----
+## <img src="https://github.com/KrishBharadwaj5678/Dinoverse/raw/main/readme/gifs/howItWorks.gif" width="35"/> How It Works
 
-### **Step 5:**  
-🌟 **Interact with the realistic 3D dinosaurs** and explore them in your space with immersive AR visuals!
+### 1️⃣ Download the Images
 
----
+- **Download the images** from the repository's `markers` folder to your device.
 
-Step into Dinoverse and experience dinosaurs like never before!
+### 2️⃣ Download the App
 
----
+- [Download the app](https://drive.google.com/file/d/1C9f9p4G6hup2rYGygBp1nDcvZmMloFZt/view?usp=sharing) using the link provided in the repository.
+
+### 3️⃣ Launch the App
+
+- **Open the app** to begin the immersive augmented reality experience.
+
+### 4️⃣ Scan the Image
+
+- **Scan any downloaded image** using the app to activate the AR experience.
+
+### 5️⃣ Experience in AR
+
+- **View the Dinosaur in immersive 3D** and experience it through augmented reality.
+
+<img src="https://github.com/KrishBharadwaj5678/Dinoverse/raw/main/readme/gifs/divider.gif" width="100%"/>
+
+## <img src="https://github.com/KrishBharadwaj5678/Dinoverse/raw/main/readme/gifs/license.gif" width="35"/> License
+
+This project is licensed under the **MIT License**.
+
+See the [LICENSE](LICENSE) file for more details.
+
+<p align="center">
+  <img src="https://github.com/KrishBharadwaj5678/Dinoverse/raw/main/readme/gifs/footer.gif" width="320px"/>
+</p>
