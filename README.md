@@ -16,7 +16,7 @@
 <h1 align="center">🦖 Dinoverse</h1>
 
 <p align="center">
-  Bring dinosaurs to life with Dinoverse’s immersive real-time 3D scanning experience.
+  Bring dinosaurs to life with Dinoverse immersive real-time 3D scanning experience.
 </p>
 
 <p align="center">
