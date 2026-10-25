@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/KrishBharadwaj5678/Dinoverse/raw/main/readme/demos/Dinoverse.gif" width="300px" />
+  <img src="https://github.com/KrishBharadwaj5678/Dinoverse/raw/main/readme/demos/Dinoverse.gif" width="200px" />
 </p>
 
 <img src="https://github.com/KrishBharadwaj5678/Dinoverse/raw/main/readme/gifs/divider.gif" width="100%"/>
